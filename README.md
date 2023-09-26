@@ -115,4 +115,6 @@ $ yarn add @zyf2e/monitor-wx-mini
 
 [wx-mini-在线示例](https://static.91jkys.com/f2e/mito-error-example/#/errors/4/info)
 
+# 原作者的掘金文档
+[掘金文档](https://juejin.cn/post/6921549680639737863?searchId=20230926155418CF4087D69B0F792716D5#heading-2)
 
